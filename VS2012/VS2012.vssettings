@@ -436,7 +436,6 @@ CSS 3.0;CSS 3.0</PropertyValue>
 				<PropertyValue name="JsFailsafeTimeout">15000</PropertyValue>
 				<PropertyValue name="RequireAngleBracketForTagIntellisense">-1</PropertyValue>
 				<PropertyValue name="AutoIdOnPasteSourceView">-1</PropertyValue>
-				<PropertyValue name="CssIndentTabSize">4</PropertyValue>
 				<PropertyValue name="RulerAndGridGridSpacing">20</PropertyValue>
 				<PropertyValue name="EditorOptionFlags">8388616</PropertyValue>
 				<PropertyValue name="JsMaxCacheFiles">5</PropertyValue>
@@ -452,7 +451,6 @@ CSS 3.0;CSS 3.0</PropertyValue>
 				<PropertyValue name="LoadToolboxOnIdle">-1</PropertyValue>
 				<PropertyValue name="ClientTagNotLowerCase">0</PropertyValue>
 				<PropertyValue name="RestrictionsBOMFlag">4294967295</PropertyValue>
-				<PropertyValue name="CssIndent">4</PropertyValue>
 				<PropertyValue name="HtmlRightMarginRule">2</PropertyValue>
 				<PropertyValue name="HtmlBreakInTags">0</PropertyValue>
 				<PropertyValue name="AutoThumbnailSize">100</PropertyValue>
@@ -499,7 +497,6 @@ CSS 3.0;CSS 3.0</PropertyValue>
 				<PropertyValue name="RulerAndGridGridColor">11119017</PropertyValue>
 				<PropertyValue name="HtmlIndentTabs">0</PropertyValue>
 				<PropertyValue name="StartPageView">1</PropertyValue>
-				<PropertyValue name="HtmlIndentTabSize">4</PropertyValue>
 				<PropertyValue name="CssIndentTabs">0</PropertyValue>
 				<PropertyValue name="AutoThumbnailType">0</PropertyValue>
 				<PropertyValue name="AutoFormAroundControls">1</PropertyValue>
@@ -781,7 +778,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 			<PropertyValue name="ErrorListShowsMessages">false</PropertyValue>
 			<PropertyValue name="ErrorListScopeFilteringActive">false</PropertyValue>
 			<PropertyValue name="ErrorListFilterScope">3</PropertyValue>
-			<PropertyValue name="ActiveProvider">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="ActiveProvider">{7E5BB8D2-57E5-4FA9-9542-3870395C16A1}</PropertyValue>
 			<TaskProviders>
 				<Provider GUID="{7E5BB8D2-57E5-4FA9-9542-3870395C16A1}">
 					<Columns>
@@ -789,9 +786,9 @@ CSS 3.0;CSS 3.0</PropertyValue>
 						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
 						<Column Name="ProviderKnowsOrder" Width="18" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
 						<Column Name="Checked" Width="28" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="1222" Visibility="Visible" SortPriority="0" SortDirection="Down"/>
-						<Column Name="File" Width="166" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Line" Width="30" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="1118" Visibility="Visible" SortPriority="0" SortDirection="Down"/>
+						<Column Name="File" Width="253" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Line" Width="47" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
 						<Column Name="Column" Width="18" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
 						<Column Name="Project" Width="172" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
 						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
@@ -811,7 +808,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 		</Category>
 		<Category name="Environment_UnifiedFind" Category="{DF00ADDF-C14C-4ffd-9325-634FD605850B}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_UnifiedFind" PackageName="Visual Studio Environment Package">
 			<PropertyValue name="Options">MatchCase=0 WholeWord=0 Hidden=0 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=0 KeepOpen=0 NameOnly=0 Plain Document Find</PropertyValue>
-			<PropertyValue name="DialogOptions">MatchCase=1 WholeWord=0 Hidden=1 Up=1 Selection=0 Block=0 KeepCase=0 SubFolders=0 KeepOpen=0 NameOnly=0 Plain Solution FindAll</PropertyValue>
+			<PropertyValue name="DialogOptions">MatchCase=1 WholeWord=0 Hidden=1 Up=1 Selection=0 Block=0 KeepCase=0 SubFolders=0 KeepOpen=0 NameOnly=0 Plain Files FindAll</PropertyValue>
 			<PropertyValue name="AdornmentOptions">MatchCase=0 WholeWord=0 Hidden=0 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=0 KeepOpen=0 NameOnly=0 Plain Document Find</PropertyValue>
 			<PropertyValue name="Result list">1</PropertyValue>
 			<PropertyValue name="ShowEndOfSearch">1</PropertyValue>
@@ -1816,160 +1813,6 @@ CSS 3.0;CSS 3.0</PropertyValue>
 						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
 					</Columns>
 				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
-				<Provider GUID="{00000000-0000-0000-0000-000000000000}">
-					<Columns>
-						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
-						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
-						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
-						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
-						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
-						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
-						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
-						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
-						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
-					</Columns>
-				</Provider>
 			</TaskProviders>
 		</Category>
 		<Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package">
@@ -2052,11 +1895,11 @@ CSS 3.0;CSS 3.0</PropertyValue>
 									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{ddd3c1ac-37df-4e57-bd73-6c4c0e1cc5ba}" DockedHeight="574.68" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
 									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}" DockedHeight="574.68" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
 								</AutoHideGroup>
-								<AutoHideGroup IsVisible="True">
-									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="15" IconResourceID="6650" IconResourcePackage="4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" IsVisible="True" DockedHeight="421" DockedWidth="1643" AutoHideHeight="424" FloatingTop="904" FloatingLeft="-457" FloatingHeight="421" FloatingWidth="1643"/>
+								<AutoHideGroup>
+									<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="273" IconResourcePackage="0c6e6407-13fc-4878-869a-c8b4016c57fe" Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}" DockedHeight="442.5" DockedWidth="1643" AutoHideHeight="689" FloatingTop="919" FloatingLeft="-361" FloatingHeight="554" FloatingWidth="1643"/>
 								</AutoHideGroup>
 								<AutoHideGroup IsVisible="True">
-									<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="273" IconResourcePackage="0c6e6407-13fc-4878-869a-c8b4016c57fe" Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}" IsVisible="True" DockedHeight="442.5" DockedWidth="1643" AutoHideHeight="557" FloatingTop="935" FloatingLeft="-613" FloatingHeight="554" FloatingWidth="1643"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="15" IconResourceID="6650" IconResourcePackage="4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" IsVisible="True" DockedHeight="421" DockedWidth="1643" AutoHideHeight="424" FloatingTop="910" FloatingLeft="480" FloatingHeight="421" FloatingWidth="1643"/>
 								</AutoHideGroup>
 							</AutoHideChannel>
 							<DockRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
@@ -2091,7 +1934,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 												<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="1" IconResourceID="301" IconResourcePackage="8c28e535-abc9-4f92-b5c9-6c16617c8884" Name="ST:0:0:{b8f809ca-7d14-4935-8657-727dc294e16b}" DockedWidth="650" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
 												<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="*" DockedWidth="*">
 													<DocumentGroupContainer Orientation="Vertical" IsVisible="True" DockedHeight="*" DockedWidth="*">
-														<wm:WMDocumentGroup IsVisible="True">
+														<wm:WMDocumentGroup>
 															<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{46c87f81-5a06-43a8-9e25-85d33bac49f8}" FloatingHeight="614.4" FloatingWidth="819.2"/>
 															<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{c79b74ff-f1d7-4c94-aefa-4d22bfe1b1f9}" FloatingHeight="614.4" FloatingWidth="819.2"/>
 															<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{e5c2cce5-61d0-4cd8-a946-13ec76cfdb01}" FloatingHeight="614.4" FloatingWidth="819.2"/>
@@ -2102,14 +1945,16 @@ CSS 3.0;CSS 3.0</PropertyValue>
 															<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{2553315d-efa1-4d33-9ed6-ffe62257ca21}" FloatingTop="0" FloatingLeft="0" FloatingHeight="600" FloatingWidth="800"/>
 															<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
 															<wm:ToolWindowView ForceCreate="DontForceCreate" Name="ST:0:0:{387cb18d-6153-4156-9257-9ac3f9207bbe}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
-															<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="4" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}" IsVisible="True" FloatingHeight="614.4" FloatingWidth="819.2"/>
-															<ViewBookmark Name="D:0:0:{F055546A-0C57-4988-9497-98EC67901572}|TUI.Facit.Application\TUI.Facit.Application.csproj|c:\dev\work\tui.facit\source\tui.facit.application\features\cost\accommodation\viewmodels\calculatedroomtypecostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}" ViewBookmarkType="DocumentWell"/>
-															<ViewBookmark Name="D:0:0:{1F543C78-A389-413B-A61B-EAD7969D4C58}|TUI.Facit.TravelProductImporter\TUI.Facit.TravelProductImporter.csproj|c:\dev\work\tui.facit\source\tui.facit.travelproductimporter\domain\factories\productconfigurationfactory.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell"/>
-															<ViewBookmark Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" AccessOrder="1" ViewBookmarkType="DocumentWell"/>
 															<ViewBookmark Name="ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}" ViewBookmarkType="DocumentWell"/>
+															<ViewBookmark Name="D:0:0:{1F543C78-A389-413B-A61B-EAD7969D4C58}|TUI.Facit.TravelProductImporter\TUI.Facit.TravelProductImporter.csproj|c:\dev\work\tui.facit\source\tui.facit.travelproductimporter\domain\factories\productconfigurationfactory.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell"/>
+															<ViewBookmark Name="D:0:0:{F055546A-0C57-4988-9497-98EC67901572}|TUI.Facit.Application\TUI.Facit.Application.csproj|c:\dev\work\tui.facit\source\tui.facit.application\features\cost\accommodation\viewmodels\calculatedroomtypecostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}" ViewBookmarkType="DocumentWell"/>
+															<ViewBookmark Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" AccessOrder="1" ViewBookmarkType="DocumentWell"/>
+															<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="4" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}" FloatingHeight="614.4" FloatingWidth="819.2"/>
 														</wm:WMDocumentGroup>
 														<wm:WMDocumentGroup DockedWidth="1109">
 															<ViewBookmark Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}" AccessOrder="1" ViewBookmarkType="DocumentWell" DockedWidth="1109"/>
+														</wm:WMDocumentGroup>
+														<wm:WMDocumentGroup DockedWidth="1109">
 															<ViewBookmark Name="ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}" AccessOrder="1" ViewBookmarkType="DocumentWell" DockedWidth="1109"/>
 														</wm:WMDocumentGroup>
 													</DocumentGroupContainer>
@@ -2169,7 +2014,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 										<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="384" DockedWidth="523.16">
 											<TabGroup IsVisible="True" DockedWidth="523.16">
 												<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}" IsSelected="True" IsVisible="True" DockedWidth="523.16" FloatingHeight="614.4" FloatingWidth="348.16"/>
-												<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="1" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" IsVisible="True" DockedWidth="523.16" FloatingTop="353" FloatingLeft="1239" FloatingHeight="340" FloatingWidth="348"/>
+												<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="1" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" DockedWidth="523.16" FloatingTop="353" FloatingLeft="1239" FloatingHeight="340" FloatingWidth="348"/>
 												<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="1" IconResourcePackage="b80b010d-188c-4b19-b483-6c20d52071ae" Name="ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}" DockedWidth="523.16" FloatingHeight="614.4" FloatingWidth="348.16"/>
 												<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{3addf8e2-81cc-41a0-9785-dbd2d86064bd}" DockedWidth="523.16" FloatingHeight="614.4" FloatingWidth="276.48"/>
 												<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{0db31cc8-2322-4f59-a610-1fdc8423df77}" DockedWidth="523.16" FloatingHeight="614.4" FloatingWidth="276.48"/>
@@ -2189,8 +2034,8 @@ CSS 3.0;CSS 3.0</PropertyValue>
 									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{6da21f7a-58db-45ce-8a78-22e8ff00cb95}" DockedHeight="294" AutoHideHeight="623" FloatingTop="760" FloatingLeft="228" FloatingHeight="612" FloatingWidth="603"/>
 									<ViewBookmark Name="ST:0:0:{0f887920-c2b6-11d2-9375-0080c747d9a0}"/>
 									<ViewBookmark Name="ST:0:0:{9011e053-b6f5-58f4-94a9-cbe276db9bbc}"/>
-									<ViewBookmark Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"/>
 									<ViewBookmark Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}"/>
+									<ViewBookmark Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"/>
 								</DockGroup>
 							</DockRoot>
 						</AutoHideRoot>
@@ -2329,7 +2174,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 							<AutoHideChannel Dock="Top"/>
 							<AutoHideChannel Dock="Bottom" IsVisible="True">
 								<AutoHideGroup IsVisible="True">
-									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}" IsVisible="True" DockedHeight="442.5" DockedWidth="1618" AutoHideHeight="470" FloatingTop="910" FloatingLeft="1753" FloatingHeight="467" FloatingWidth="1618"/>
+									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}" IsVisible="True" DockedHeight="442.5" DockedWidth="1618" AutoHideHeight="470" FloatingTop="930" FloatingLeft="176" FloatingHeight="467" FloatingWidth="1618"/>
 								</AutoHideGroup>
 							</AutoHideChannel>
 							<DockRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
@@ -2635,10 +2480,10 @@ CSS 3.0;CSS 3.0</PropertyValue>
 												<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{cb4d394c-6408-4607-8c42-0910d3147a4e}" FloatingHeight="614.4" FloatingWidth="819.2"/>
 												<ViewBookmark Name="ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}" ViewBookmarkType="DocumentWell"/>
 												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}" FloatingHeight="614.4" FloatingWidth="819.2"/>
-												<ViewBookmark Name="D:0:0:{F055546A-0C57-4988-9497-98EC67901572}|TUI.Facit.Application\TUI.Facit.Application.csproj|c:\dev\work\tui.facit\source\tui.facit.application\features\cost\accommodation\viewmodels\calculatedroomtypecostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}" ViewBookmarkType="DocumentWell"/>
-												<ViewBookmark Name="D:0:0:{1F543C78-A389-413B-A61B-EAD7969D4C58}|TUI.Facit.TravelProductImporter\TUI.Facit.TravelProductImporter.csproj|c:\dev\work\tui.facit\source\tui.facit.travelproductimporter\domain\factories\productconfigurationfactory.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell"/>
-												<ViewBookmark Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" ViewBookmarkType="DocumentWell"/>
 												<ViewBookmark Name="ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}" ViewBookmarkType="DocumentWell"/>
+												<ViewBookmark Name="D:0:0:{1F543C78-A389-413B-A61B-EAD7969D4C58}|TUI.Facit.TravelProductImporter\TUI.Facit.TravelProductImporter.csproj|c:\dev\work\tui.facit\source\tui.facit.travelproductimporter\domain\factories\productconfigurationfactory.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell"/>
+												<ViewBookmark Name="D:0:0:{F055546A-0C57-4988-9497-98EC67901572}|TUI.Facit.Application\TUI.Facit.Application.csproj|c:\dev\work\tui.facit\source\tui.facit.application\features\cost\accommodation\viewmodels\calculatedroomtypecostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}" ViewBookmarkType="DocumentWell"/>
+												<ViewBookmark Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" ViewBookmarkType="DocumentWell"/>
 											</wm:WMDocumentGroup>
 											<wm:WMDocumentGroup>
 												<ViewBookmark Name="ST:0:0:{7e6a7979-99b0-5b75-a5a7-54001080b9ad}" ViewBookmarkType="DocumentWell"/>
@@ -3623,7 +3468,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 		<PropertyValue name="TreeGridDelayOnEnterTimer">125</PropertyValue>
 		<PropertyValue name="DelayTreeGridPaintOnBreak">1</PropertyValue>
 		<PropertyValue name="ShowNonprintableCharsAsGlyphs">0</PropertyValue>
-		<PropertyValue name="ShowSystemProcesses">0</PropertyValue>
+		<PropertyValue name="ShowSystemProcesses">1</PropertyValue>
 		<PropertyValue name="ShowProcessesFromAllSessions">0</PropertyValue>
 		<PropertyValue name="EnhancedDataTips">1</PropertyValue>
 		<PropertyValue name="DataTipDismissalSensitivity">1</PropertyValue>
